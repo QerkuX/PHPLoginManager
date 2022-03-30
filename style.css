@@ -1,0 +1,24 @@
+*
+{
+    font-family: monospace;
+    font-size: 120%;
+    color: whitesmoke;
+}
+
+body, html
+{
+    height: 100%;
+    margin: 0 auto;
+    background-color: gray;
+    padding: 10px;
+}
+
+input, button
+{
+    background-color: rgb(94, 94, 94);
+}
+
+button
+{
+    margin-left: 25px;
+}
